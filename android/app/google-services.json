@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "320845941803",
+    "project_id": "thaaja-f8107",
+    "storage_bucket": "thaaja-f8107.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320845941803:android:2e3162ce9e4fed7b8e2e6e",
+        "android_client_info": {
+          "package_name": "com.example.thaaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320845941803-be4uhfk02jnedd7uhthucvuidtp91rj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClThRwlIk9XzYeaxSqAt9_39qxhd2MI_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320845941803-be4uhfk02jnedd7uhthucvuidtp91rj5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320845941803-4le6ugrrfbnje62de6fm4upo00rq5udr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thaaja.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320845941803:android:627067666db269608e2e6e",
+        "android_client_info": {
+          "package_name": "com.thaaja.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320845941803-7i3n0410tpvbep9ej30r35foagstdp3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thaaja.app",
+            "certificate_hash": "557ba6d21901089cdb844db31a7962aec45bd052"
+          }
+        },
+        {
+          "client_id": "320845941803-njjm2ir2m0j56nh4vkeriqq8mc1cbf39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thaaja.app",
+            "certificate_hash": "cfcd8866d760bc7dc1bc4cf0ae8e8b1918784213"
+          }
+        },
+        {
+          "client_id": "320845941803-be4uhfk02jnedd7uhthucvuidtp91rj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClThRwlIk9XzYeaxSqAt9_39qxhd2MI_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320845941803-be4uhfk02jnedd7uhthucvuidtp91rj5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320845941803-4le6ugrrfbnje62de6fm4upo00rq5udr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thaaja.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
