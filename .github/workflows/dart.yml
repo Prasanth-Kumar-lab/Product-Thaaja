@@ -15,6 +15,11 @@ jobs:
           channel: 'stable'
           architecture: x64
       - run: flutter pub get
+
+      - name: Update iOS Deployment Target
+        run: |
+          echo "platform :ios, '13.0'" > ios/Podfile
+          sed -i '' 's/IPHONEOS_DEPLOYMENT_TARGET = [0-9.]\+;/IPHONEOS_DEPLOYMENT_TARGET = 13.0;/g' ios/Runner.xcodeproj/project.pbxproj
       
 
       - run: pod repo update
